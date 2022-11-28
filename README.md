@@ -1,3 +1,6 @@
+pueden desplegar la calculadora https://tatacastro12.github.io/calculadora2/
+
+
 // ? se recogen los elementos que funcionan como pantalla
 const displayValorAnterior = document.getElementById( "valor-anterior");
 const displayValorActual = document.getElementById("valor-actual");
