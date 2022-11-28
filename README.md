@@ -1,4 +1,4 @@
-pueden desplegar la calculadora https://tatacastro12.github.io/calculadora2/
+pueden desplegar la calculadora https://tatacastro12.github.io/calculadora/
 
 
 // ? se recogen los elementos que funcionan como pantalla
